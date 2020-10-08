@@ -24,5 +24,5 @@ spring:
           custom-provider:
             token-uri: http://localhost:8081/auth/oauth/token
             authorization-uri: http://localhost:8081/auth/oauth/authorize
-            user-info-uri: http://localhost:8081/auth/user/me
+            user-info-uri: http://localhost:8081/auth/user
             user-name-attribute: name
